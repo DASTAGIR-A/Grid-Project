@@ -1,0 +1,25 @@
+@media (max-width: 995px){
+    .sidebar{
+        display: none;
+    }
+    .grid-layout {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 90px auto;
+    }
+    .sidebar2{
+        display: block;
+    }
+    .sidebar li a{
+        padding: 16px;
+    }
+    .sidebar li img{
+        margin: 0 15px;
+    }
+    .center-container2 {
+    width: 90%;
+    }
+    .rightbar {
+    margin: 30px 20px;
+    }
+}
