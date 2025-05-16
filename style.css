@@ -44,6 +44,7 @@ body{
     margin: 0px 0px;
     padding: 20px 0px;
     gap: 5px;   
+    transition: all 0.3s ease;
 }
 
 .sidebar li:hover{ 
@@ -51,6 +52,8 @@ body{
     border-radius: 5px;
     color: white;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transform: scale(1.1);
+
 
 }
 
